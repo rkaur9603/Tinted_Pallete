@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tinted Pallete is an ECommerce Art website which sells art products like pens, markers, paints etc. This is creted using React JS for the frontend and for the user authentication and database Firebase is used. In this website you can add, update and delete the art products from the admin end. Users can signup and create accounts and can buy the products. They can add and delete products in the cart as well as access products category wise. 
