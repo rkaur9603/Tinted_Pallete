@@ -208,7 +208,7 @@ import { addToCart, deleteFromCart } from "../../redux/cartSlice";
 //     },
 //     {
 //         id: 23,
-//         image: 'https://artikate.com/cdn/shop/files/81wl6gwcadl._sl1500_600x.jpg?v=1711175072',
+//         image: 'https://m.media-amazon.com/images/I/61MxSp59GbL._UF1000,1000_QL80_.jpg',
 //         title: 'Touch Twin Head Dual Tip Alcohol based Art Markers Set of 48 Colour Markers',
 //         desc: 'Highest quality ink ideal for designers, architects and illustrators. Optimum ink flow and drying rates allow for seamless execution of even the most detailed artwork.. Permanent and quick drying opaque paint. Ink is waterproof, fade proof and acid free.',
 //         price: 589,
