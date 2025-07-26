@@ -10,7 +10,7 @@ import { addToCart, deleteFromCart } from "../../redux/cartSlice";
 // const productData = [
 //     {
 //         id: 1,
-//         image: 'https://thooviarts.com/cdn/shop/files/Resize_4.jpg?v=1723611751&width=600',
+//         image: 'https://thooviarts.com/cdn/shop/files/HIMI-Twincupjelly-Gouache-36colours-withoutbrushes-Purple.jpg?v=1739943254',
 //         title: 'Himi - Gouache Paint Twin Cup Set - 12 G x 36 colours ',
 //         desc: 'This set contains upgraded jelly cups in twin cup design. Each cup contains 12g of paint. This set contains 36 colours',
 //         price: 1299,
